@@ -1,4 +1,3 @@
-#Math Quest Game
 
 from random import randint
 
